@@ -1,10 +1,13 @@
 # Raspberry Pi RFM69 Hat
 
-This is a simple hat for hooking a RFM69 radio module up to a
+This is a simple hat PCB for hooking a HopeRF RFM69 radio module up to a
 Raspberry Pi+.
 
 It has optional connections for two 1-wire sensors if you want to hook
 some up.
+
+For code which works with this, check out my [rfm69
+python library](https://github.com/russss/rfm69-python).
 
 ## BOM
 
