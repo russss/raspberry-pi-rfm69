@@ -27,7 +27,7 @@ To use more than one RFM69, you'll additionally need:
 
 To use one-wire sensors if you require a strong pull-up:
 
-* R1: A 4k7 0805 SMD resisitor
+* R1: A 4k7 0805 SMD resistor
 
 ## Assembly
 

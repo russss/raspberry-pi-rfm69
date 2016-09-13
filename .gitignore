@@ -6,3 +6,5 @@
 *.gpi
 *.s#*
 *bak
+output/
+.DS_Store
